@@ -21,7 +21,7 @@ public class CardDeliveryTest {
     }
 
     @Test
-    void should() {
+    void shouldReschedulingMeeting() {
 
         String PlanningDate = DataGenerator.generateDate(3);
         String RedevelopedDate = DataGenerator.generateDate(10);
